@@ -5,5 +5,7 @@
     &lt;TestId&gt;xUnit::D57A0950-5728-4FE0-BB7A-A6EBA0087891::net7.0::CSharp.Day2.Tests.UnitTest1.Test1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::D57A0950-5728-4FE0-BB7A-A6EBA0087891::net7.0::CSharp.Day2.Tests.UnitTest1.Test2&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::D57A0950-5728-4FE0-BB7A-A6EBA0087891::net7.0::CSharp.Day2.Tests.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE0C43ED-74BE-466F-AC35-D092AE60A319::net7.0::CSharp.Day3.Tests.UnitTest1.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE0C43ED-74BE-466F-AC35-D092AE60A319::net7.0::CSharp.Day3.Tests.UnitTest1.Test2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

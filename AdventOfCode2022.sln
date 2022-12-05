@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Day2.Tests", "tests\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Day2", "src\CSharp.Day2\CSharp.Day2.csproj", "{48BC492E-A116-4EDA-A0EC-8E6BD9E5A9B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Day3", "src\CSharp.Day3\CSharp.Day3.csproj", "{08B87B64-F3EC-45DD-A012-A659E932987F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Day3.Tests", "tests\CSharp.Day3.Tests\CSharp.Day3.Tests.csproj", "{CE0C43ED-74BE-466F-AC35-D092AE60A319}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{48BC492E-A116-4EDA-A0EC-8E6BD9E5A9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48BC492E-A116-4EDA-A0EC-8E6BD9E5A9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48BC492E-A116-4EDA-A0EC-8E6BD9E5A9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B87B64-F3EC-45DD-A012-A659E932987F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B87B64-F3EC-45DD-A012-A659E932987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B87B64-F3EC-45DD-A012-A659E932987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B87B64-F3EC-45DD-A012-A659E932987F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0C43ED-74BE-466F-AC35-D092AE60A319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0C43ED-74BE-466F-AC35-D092AE60A319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0C43ED-74BE-466F-AC35-D092AE60A319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0C43ED-74BE-466F-AC35-D092AE60A319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
